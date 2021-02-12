@@ -5,7 +5,7 @@ const tourData = [
     img: "https://images.pexels.com/photos/374870/pexels-photo-374870.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500",
     name: "new york bridge tour",
     info:
-      "The Brooklyn Bridge is a hybrid cable-stayed/suspension bridge in New York City",
+      "The Brooklyn Bridge is a hybrid cable-stayed/suspension bridge in New York City and its famous.",
     ref:"https://en.wikipedia.org/wiki/List_of_bridges_and_tunnels_in_New_York_City"
   },
   {
